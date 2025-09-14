@@ -1,8 +1,7 @@
 
 # Mathematical Finance & Risk Analysis — GBM & Monte Carlo Option Pricing
 
-**Author:** You (B.Sc. (Honours) Math & Stats, McMaster)  
-**Target Program:** York University — MA in Mathematics & Statistics
+**Author:** Harleen Dhatt (B.Sc. (Honours) Math & Stats, McMaster)  
 
 ## Objectives
 1. Simulate **Geometric Brownian Motion (GBM)** stock price paths.
