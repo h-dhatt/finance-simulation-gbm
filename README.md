@@ -20,7 +20,7 @@
 - **fig_gbm_final_distribution.png** — terminal price histogram
 - **fig_option_convergence.png** — option pricing convergence
 
-## Admissions-Ready Highlights
+## Highlights
 - Implemented GBM, the **stochastic differential equation model** of stock prices, via discretized simulations.
 - Applied **Monte Carlo methods** to price European options, demonstrating convergence.
 - Bridged rigorous probability theory with **financial applications**.
